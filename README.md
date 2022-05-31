@@ -2,7 +2,7 @@
   
 install dependencies: ``` pip install -r requirements.txt ```
  
-usage: python pyshred.py [-h] [-z] [-r] [-i int] [-x] destination   
+usage: ``` python pyshred.py [-h] [-z] [-r] [-i int] [-x] destination```
   
 options:  
   -h, --help   show this help message and exit  
